@@ -1,0 +1,23 @@
+.title{
+    color: #252525;
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    color: #5e5d5c;
+    padding: 15px 100px;
+    
+    border:solid;
+    border-width: 3px;
+    border-color: #4c4c4b;
+    text-align: center;
+    font-size: large;
+}
+.btn:hover{
+    text-decoration: underline;
+}

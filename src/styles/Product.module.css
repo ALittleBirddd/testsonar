@@ -1,0 +1,33 @@
+.title{
+    
+    color: #252525 ;
+    font-size:xx-large;
+    border: solid;
+    border-width: 3px;
+    
+    
+    
+
+}
+.container div{
+    text-align: center;
+    
+    width: 300px;
+    height: 300px;
+    margin: 50px 20px;
+    
+    
+    
+}
+
+.container{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color:#252525;
+    
+}
+
+
+
